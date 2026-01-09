@@ -13,7 +13,7 @@ public class Cat extends Pet implements Pettable{
     }
 
     @Override
-    public  String speak(){
+    public String speak(){
         return "meow";
     }
 
